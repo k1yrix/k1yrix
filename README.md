@@ -8,7 +8,7 @@ Hi there! I'm Kirby (or kirbix)
 - I know some Lua (not advanced though)
 - I also sometimes VA stuff
 
-You can reach me on Discord @ kirbi_kyrix
+You can reach me on Discord @ k1yrix
 
 <!---
 kirbix12/kirbix12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
