@@ -1,6 +1,6 @@
 Hi there! I'm Kirby (or kirbix)
 
-- Call me anything, idc :)
+- Call me any pronouns, idc :)
 - Later to be trans girl
 - "Born a male, socially a female"
 - Former Contributor of the SCR Realism Project (archived)
