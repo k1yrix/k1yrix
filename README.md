@@ -1,10 +1,10 @@
-Hi there! I'm Kirby (or kirbix)
+hi! I'm kirby/kirbix/caroline/carofireline.
 
-- Call me any pronouns, idc :)
-- Later to be trans girl
-- "Born a male, socially a female"
-- Former Contributor of the SCR Realism Project (archived)
-- Former Creator of the North Shore Mountains Research Site - Stock Photography Directory Project (archived)
+- call me any pronouns, idc :)
+- later to be trans girl
+- "born a male, socially a female"
+- former contributor of the SCR Realism Project (archived)
+- former creator of the North Shore Mountains Research Site - Stock Photography Directory Project (archived)
 - I know some Lua (not advanced though)
 - I also sometimes VA stuff
 
