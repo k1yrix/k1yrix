@@ -4,6 +4,7 @@ hi! I'm kirby/kirbix/caroline/carofireline.
 - later to be trans girl
 - "born a male, socially a female"
 - former contributor of the SCR Realism Project (archived)
+- primary documentation maintainer for [vinegarhq](https://github.com/vinegarhq/vinegarhq.github.io)
 - apparently I do a lot of source offensive modding
 - I know some Lua (not advanced though)
 - I also sometimes VA stuff
