@@ -2,12 +2,10 @@ hi! I'm kirby/kirbix/caroline/carofireline.
 
 - prefer she/her or they/them, but you can call me any pronouns, idc :)
 - later to be trans girl
-- "born a male, socially a female"
+- a girl in heart
 - former contributor of the SCR Realism Project (archived)
 - primary documentation maintainer for [vinegarhq](https://github.com/vinegarhq/vinegarhq.github.io)
-- apparently I do a lot of source offensive modding
 - I know some Lua (not advanced though)
-- I also sometimes VA stuff
 
 You can reach me on Discord @ k1yrix
 
