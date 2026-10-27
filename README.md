@@ -9,9 +9,6 @@ hi! I'm kirby/kirbix/caroline/carofireline.
 
 You can reach me on Discord @ k1yrix
 
-# Experience?
-I have some expereience in:
-
 [![My Skills](https://skillicons.dev/icons?i=html,css,cpp,lua,md,robloxstudio,linux,windows,apple)](https://skillicons.dev) ...and more
 
 
